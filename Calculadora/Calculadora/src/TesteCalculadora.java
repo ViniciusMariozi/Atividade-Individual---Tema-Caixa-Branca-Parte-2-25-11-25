@@ -1,4 +1,4 @@
-package calculadora;
+package Calculadora.src;
 
 public class TesteCalculadora {
     public static void main(String[] args) {
